@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-06T14:56:58 IST" name="Default suite" finished-at="2024-02-06T14:57:57 IST" duration-ms="58413">
+    <groups>
+    </groups>
+    <test started-at="2024-02-06T14:56:58 IST" name="Default test" finished-at="2024-02-06T14:57:57 IST" duration-ms="58413">
+      <class name="com.mobiletest.dsdet.tests.TC_HomePage">
+        <test-method is-config="true" signature="AppiumApplication()[pri:0, instance:com.mobiletest.dsdet.tests.TC_HomePage@795509d9]" started-at="2024-02-06T14:56:58 IST" name="AppiumApplication" finished-at="2024-02-06T14:57:17 IST" duration-ms="18514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumApplication -->
+        <test-method signature="HomePage()[pri:0, instance:com.mobiletest.dsdet.tests.TC_HomePage@795509d9]" started-at="2024-02-06T14:57:17 IST" name="HomePage" finished-at="2024-02-06T14:57:57 IST" duration-ms="39860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+      </class> <!-- com.mobiletest.dsdet.tests.TC_HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
